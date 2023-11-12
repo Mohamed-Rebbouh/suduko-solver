@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "suduko_solver/1.0.0": {
+        "runtime": {
+          "suduko_solver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "suduko_solver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
